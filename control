@@ -1,10 +1,10 @@
 Package: com.peterdev.kbypasscard
 Name: KBypass Card
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: KB국민카드 앱의 탈옥감지를 우회시켜 줍니다.
 Maintainer: PeterDev <djperter@icloud.com>
 Author: PeterDev <djperter@icloud.com>
 Section: Tweaks
-Depiction: http://nexusrepo.kro.kr/depictions/?p=com.peterdev.kbypasscard
+Depiction: http://nexusrepo.kro.kr/depictions/com.peterdev.kbypasscard/
